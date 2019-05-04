@@ -18,6 +18,15 @@ For each sub-model, the algorithm functions as follows:
 Based on the building-block sub-models as described above, I developed a number of models trying different approaches at solving this challenge. Included is a model file that exemplifies the functioning of the algorithm. More optimized models will be added once the competition ends.
 
 ## Files
-1. **LayerGenerator**
+**1. LayerGenerator**
 
 Flexible end-to-end module generation utility. The program defines generator objects which can be used efficiently to create similar complex modules adapted for the characteristics of the input data. The aim is to minimise the code required in the model program and to allow for quick tweaks and clear visualisation of the model's architecture.
+
+**2. CNN_model**
+
+Sample model implemented in PyTorch.
+
+**3. Model_notebook**
+
+An initial draft of a Jupyter Notebook used to train the model.
+
