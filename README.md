@@ -19,4 +19,5 @@ Based on the building-block sub-models as described above, I developed a number 
 
 ## Files
 1. **LayerGenerator**
+
 Flexible end-to-end module generation utility. The program defines generator objects which can be used efficiently to create similar complex modules adapted for the characteristics of the input data. The aim is to minimise the code required in the model program and to allow for quick tweaks and clear visualisation of the model's architecture.
